@@ -1,7 +1,7 @@
 
 ## DARK-NA-MD
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTyrKwGSOe0N3mX2BGyexNhLjZUCOQnFfLbA&usqp=CAU">
+<img src="https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg">
 
 
 1. ***Get [SESSION-ID](https://astro-qr.herokuapp.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***<br>
